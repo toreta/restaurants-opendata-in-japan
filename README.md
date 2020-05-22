@@ -4,7 +4,7 @@
 
 ## 目的
 
-元々[テイクアウト&デリバリーMAP powered by Toreta](https://takeout-delivery-map.toreta.in/)はCOVID-19感染予防の為の自粛要請により厳しい状況にさらされた飲食店を支援するために開発したものです。
+元々[テイクアウト&デリバリーMAP powered by Toreta](https://takeout-delivery-map.toreta.in/)はCOVID-19感染予防の為の自粛要請により厳しい状況にさらされた飲食店を支援するために開発したものです。<br>
 このマップを通じて収集された飲食店データを公開することで新たなウェブサイトやサービスが生まれ、最終的に飲食産業活性化への寄与が目的です。
 
 ## ライセンス
@@ -46,10 +46,10 @@
 
 ## 問い合わせ
 
-下記までご連絡ください。
+下記までご連絡ください。<br>
 https://forms.gle/GpvjgBdsNySgugLC6
 
 ## 運営元
 
-株式会社トレタ
+株式会社トレタ<br>
 https://corp.toreta.in/
