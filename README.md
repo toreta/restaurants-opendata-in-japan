@@ -9,7 +9,7 @@
 
 ## ライセンス
 
-掲載している各種データについては、[クリエイティブ・コモンズ・ライセンス表示4.0国際](https://creativecommons.org/licenses/by/4.0/deed.ja) のもとでライセンスされています。
+公開している各種データについては、[クリエイティブ・コモンズ・ライセンス表示4.0国際](https://creativecommons.org/licenses/by/4.0/deed.ja) のもとでライセンスされています。
 
 ## 免責
 
