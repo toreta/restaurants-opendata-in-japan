@@ -18,14 +18,14 @@
 ## カラム（内容/データ型）
 ※：飲食店によってはブランクの可能性あり
 - name（店舗名漢字/string)
-- kana（店舗名カタカナ/string)
+- kana（店舗名カタカナ/string) ※
 - zip（郵便番号/string)
 - prefecture(都道府県/string)
 - city(市区町村/string)
 - street(番地/string)
 - building(建物名/string) ※
 - station(最寄り駅/string) ※
-- phone(店舗電話番号/string)
+- phone(店舗電話番号/string) ※
 - genre(ジャンル/string)
 - takeout(テイクアウト対応有無/boolean)
 - delivery(デリバリー対応有無/boolean)
@@ -33,13 +33,13 @@
 - deliveryUrl(デリバリー注文詳細のURL/string) ※
 - siteUrl(店舗のホームページURL/string) ※
 - eatinUrl(店内利用予約用のURL/string) ※
-- emoney(電子マネー対応有無/boolean)
-- credit(クレジットカード対応有無/boolean)
+- emoney(電子マネー対応有無/boolean) ※
+- credit(クレジットカード対応有無/boolean) ※
 - private(個室有無/boolean) ※
-- nosomoking(完全禁煙対応有無/boolean)
+- nosomoking(完全禁煙対応有無/boolean) ※
 - easyaccess(バリアフリー対応有無/boolean) ※
-- close(定休日/string)
-- time(営業時間/string)
+- close(定休日/string) ※
+- time(営業時間/string) ※
 - seats(席数/number) ※
 - lat(緯度/number)
 - Ing(経度/number)
